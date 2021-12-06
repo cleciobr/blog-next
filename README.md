@@ -14,7 +14,7 @@ Preview the example live on [StackBlitz](http://stackblitz.com/);;;
 
 ## Demo
 
-[https://next-blog-starter.vercel.app/](https://next-blog-starter.vercel.app/)
+[https://clecio.vercel.app/](https://clecio.vercel.app/)
 
 ## Deploy your own
 
