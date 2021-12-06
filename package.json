@@ -20,5 +20,22 @@
     "autoprefixer": "^10.2.1",
     "postcss": "^8.2.4",
     "tailwindcss": "^2.0.2"
-  }
+  },
+  "name": "blogsimple",
+  "description": "This example showcases Next.js's [Static Generation](https://nextjs.org/docs/basic-features/pages) feature using Markdown files as the data source.",
+  "version": "1.0.0",
+  "main": "postcss.config.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cleciobr/blogsimple.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cleciobr/blogsimple/issues"
+  },
+  "homepage": "https://github.com/cleciobr/blogsimple#readme"
 }
